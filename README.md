@@ -22,10 +22,12 @@ $ pip install stdiomask
 
 $ pip install --upgrade pip
 
-$ git clone https://github.com/Skull378/StepMom
+$ git clone https://github.com/Alexander-Khntlts/Huawei7_V3
 
 $ ls ( L kecil )
 
-$ cd StepMom
+$ cd FerlyXD
 
-$ python Petir.py
+$ python Huawei7_V3.py
+
+###Jangan Lupa Kasih Bintang Yah Oom,GK Papa Gak Di Follow Juga,Hehe🗿🗿👌😁###
