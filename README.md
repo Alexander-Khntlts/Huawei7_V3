@@ -26,7 +26,7 @@ $ git clone https://github.com/Alexander-Khntlts/Huawei7_V3
 
 $ ls ( L kecil )
 
-$ cd FerlyXD
+$ cd Huawei7_V3
 
 $ python Huawei7_V3.py
 
