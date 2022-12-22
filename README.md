@@ -28,6 +28,4 @@ $ ls ( L kecil )
 
 $ cd Huawei7_V3
 
-$ python Huawei7_V3.py
-
-###Jangan Lupa Kasih Bintang Yah Oom,GK Papa Gak Di Follow Juga,Hehe🗿🗿👌😁###
+$ python Huawei7_V3
